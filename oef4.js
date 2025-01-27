@@ -14,8 +14,12 @@
  * 
  */
 
+let openDeur = 'deur gaat open'
+let muziek = 'muziek start met spelen'
+let stilte = 'muziek gaat uit'
+let lichtAan = 'licht gaat aan'
+let lichtUit = 'licht gaat uit'
 
 
-
-// console.log(commande);
+console.log(openDeur); // hier de commande intypen
 

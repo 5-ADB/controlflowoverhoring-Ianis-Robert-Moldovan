@@ -5,3 +5,6 @@
  */
 
 let kleur;
+
+console.log();
+

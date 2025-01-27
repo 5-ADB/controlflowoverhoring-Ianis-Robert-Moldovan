@@ -9,3 +9,10 @@
  */
 
 
+let i = '#'
+
+for (let i = 0; i <= 5; i++) {
+    const i = ['#'];
+    
+    console.log(i);
+}

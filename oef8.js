@@ -12,3 +12,9 @@
  * 4 x 10 = 40
  * 5 x 10 = 50
  */
+
+let getal = 5
+const tafel = 10
+
+
+// getal * tafel
