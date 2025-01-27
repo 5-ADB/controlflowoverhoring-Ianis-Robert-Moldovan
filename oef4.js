@@ -13,3 +13,9 @@
  * - licht uit  =>  licht gaat uit
  * 
  */
+
+
+
+
+// console.log(commande);
+
