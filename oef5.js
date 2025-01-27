@@ -13,24 +13,14 @@
  */
 
 let openDeur = 'deur gaat open'
-let muziek = 'muziek start met spelen'
-let stilte
-let lichtAan = true
-let lichtUit
-let radio = false
+let muziek = true
+let stilte = false
+let lichtAan = 'licht gaat aan'
+let lichtUit = 'licht gaat uit'
 
-if (radio == true) {
-    console.log('Muziek gaat uit');
-} else {
-    console.log('Radio staat niet aan');
+console.log(); // hier de commande intypen
+
+if (muziek == true) {
+    console.log('muziek gaat uit');
+    
 }
-
-if (lichtAan == true) {
-    console.log('Licht gaat uit');
-} else {
-    console.log('licht staat al uit');
-}
-
-
-
-// console.log(lichtUit); // hier de commande intypen
